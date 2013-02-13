@@ -159,10 +159,17 @@ header a.button:hover {
   background: transparent url(../images/github-button_pink.png) 0 0 no-repeat;
   color: #da90e1
 }
-.headerImage {
+
+#headerImageContainer {
+	position: relative;
+	width: 300px;
+	height: 7px;
+}
+
+#headerImageContainer  img{
 	position: absolute;
-	top: -17%;
-	right: -6%;
+	top: -170px;
+	right: -690px;
 }
 
 aside a.button {
