@@ -172,9 +172,10 @@ aside a.button:hover {
   width: 138px;
   padding-left: 64px;
   display: block;
-  background: transparent url(../images/download-button_bright.png) 0 0 no-repeat;
+  background: transparent url(../images/download-button-blue.png) 0 0 no-repeat;
   margin-bottom: 20px;
   font-size: 21px;  
+  color: #9DDCFF;
 }
 
 code, pre {
