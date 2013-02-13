@@ -63,6 +63,8 @@ a:hover {
   color: #2268b2;
 }
 
+
+
 header {
   padding-top: 40px;
   padding-bottom: 40px;
@@ -157,7 +159,11 @@ header a.button:hover {
   background: transparent url(../images/github-button_pink.png) 0 0 no-repeat;
   color: #da90e1
 }
-
+.headerImage {
+	position: absolute;
+	top: -17%;
+	right: -6%;
+}
 
 aside a.button {
   width: 138px;
