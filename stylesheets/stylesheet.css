@@ -138,6 +138,7 @@ a.button {
   padding-top: 22px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
 }
+
 a.button small {
   display: block;
   font-size: 11px;
@@ -148,6 +149,16 @@ header a.button {
   top: 0;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
+
+header a.button:hover {
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: transparent url(../images/github-button_pink.png) 0 0 no-repeat;
+  color: #da90e1
+}
+
+
 aside a.button {
   width: 138px;
   padding-left: 64px;
@@ -252,6 +263,7 @@ form {
   margin-left: -1.5em;
 }
 
+/*
 #main-content h3 {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-size: 18px;
@@ -260,7 +272,26 @@ form {
   margin-bottom: 8px;
   color: #474747;
 } 
- 
+*/
+
+#main-content h3 {
+    color: #474747;
+    font-family: 'Segoe Script';
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    margin-top: 24px;
+}
+
+#main-content h3:hover {
+    color: #2E7BCF;
+    font-family: 'Segoe Script';
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    margin-top: 24px;
+}
+
 #main-content h3:before {
   content: "///";
   color: #9ddcff;
