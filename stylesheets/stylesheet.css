@@ -361,6 +361,7 @@ h6:before {
 
 p {
   margin-bottom: 20px;
+  text-align: justify;
 }
  
 a {
