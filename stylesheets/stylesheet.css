@@ -307,7 +307,7 @@ form {
 
 #main-content h3:hover {
     color: #2E7BCF;
-    font-family: 'Segoe Script';
+    font-family: 'Segoe Script', 'Architects Daughter', Helvetica, serif;
     font-size: 25px;
     font-weight: bold;
     margin-bottom: 8px;
