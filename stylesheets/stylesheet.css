@@ -238,6 +238,11 @@ table {
   border: 1px solid #ebebeb;
 }
 
+a.blackSheep {
+	color: black;
+	font-weight: bolder;
+}
+
 th {
   font-weight: 500;
 }
