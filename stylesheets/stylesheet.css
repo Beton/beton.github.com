@@ -241,8 +241,7 @@ table {
 a.blackSheep {
 	color: black;
 	font-weight: bolder;
-	font-family: fantasy;
-	font-weight: initial;
+	font-family: 'Segoe Script', 'Architects Daughter', Helvetica, serif;	
 }
 
 th {
