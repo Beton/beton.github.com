@@ -244,6 +244,10 @@ a.blackSheep {
 	font-family: 'Segoe Script', 'Architects Daughter', Helvetica, serif;	
 }
 
+a.blackSheep:hover{
+	color: #FC9C04;	
+}
+
 th {
   font-weight: 500;
 }
@@ -311,7 +315,7 @@ form {
     margin-top: 24px;
 }
 
-#main-content h3:hover {
+#main-content h3:sh {
     color: #2E7BCF;
     font-family: 'Segoe Script', 'Architects Daughter', Helvetica, serif;
     font-size: 25px;
